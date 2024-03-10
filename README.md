@@ -10,10 +10,10 @@ https://www.e-stat.go.jp/
 
 ■使用技術<br>
 予測モデルを生成するためにScikit-learnを使用しています。<br>
-フレームワークはFlaskを使用しています。<br>
 
-■参考記事<br>
-関連するブログ記事はこちら: （作成中）<br><br>
+■関連記事<br>
+ブログ記事はこちら: 
+https://biz.addisteria.com/free-mt-model-deploy/<br><br>
 
 <hr>
 
@@ -31,7 +31,6 @@ https://www.e-stat.go.jp/
 
 ■Technology used:<br>
 Scikit-learn was used to generate the predictive model.<br>
-The framework used is Flask.<br>
 
 ■Reference article:<br>
 Here is the related blog article: (In progress)
