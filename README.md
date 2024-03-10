@@ -6,6 +6,7 @@ https://salary-predict-japan.streamlit.app/
 
 ■モデル作成にあたり、政府統計の総合窓口のデータを使用<br>
 https://www.e-stat.go.jp/
+*なお、こちらではモデルを削除して公開しています。
 
 ■使用技術<br>
 予測モデルを生成するためにScikit-learnを使用しています。<br>
@@ -26,6 +27,7 @@ https://salary-predict-japan.streamlit.app/
 
 ■For model creation, data from the Comprehensive Portal of Government Statistics was used:<br>
 https://www.e-stat.go.jp/
+*Note that the model has been removed and published here.
 
 ■Technology used:<br>
 Scikit-learn was used to generate the predictive model.<br>
