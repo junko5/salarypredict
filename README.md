@@ -19,22 +19,19 @@ Here is the related blog articles page (Currently only in Japanese.）<br><br>
 "Explanation of how to build a Flask development environment on Windows, up to database connection"<br>
 "Deploy Python web app on X server [using Miniconda, Flask, FastCGI]."<br>
 
-■Note
-Initially, it was published to Streamlit. Therefore, the code is also for Streamlit.
+■Note<br>
+Initially, it was published to Streamlit. Therefore, the code here is for Streamlit.
 However, due to various inconveniences, it is now published on X server.
-Some of the code has also been changed. Please understand　m(__)m
+Some of the code has also been changed. Thank you for your understanding
 
-----
+<hr>
 
 機械学習モデルを活用して、ユーザーが提供する入力データに基づいて、月収を予測することを目的としたWebアプリケーションのコードです。
 
 最初はStreamlitに公開していました。そのため、コードもStreamlit用になっています。
 ただ色々不便があり、現在はエックスサーバーに公開しています。
 一部コードも変更しています。ご了承ください。
-
-
-このWebアプリは、Streamlitに公開しています。<br>
-<br>
+<br><br>
 
 ■以下のURLからアプリケーションにアクセスできます: <br>
 [https://salary-predict.cms-sample-site.xyz/](https://salary-predict.cms-sample-site.xyz/)
@@ -50,4 +47,4 @@ https://www.e-stat.go.jp/
 関連ブログ記事はこちら: 
 [https://biz.addisteria.com/free-mt-model-deploy/](https://biz.addisteria.com/category/python/)　<br>
 
-<hr>
+
